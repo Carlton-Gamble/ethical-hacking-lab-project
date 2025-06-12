@@ -50,6 +50,17 @@ This project documents a cybersecurity lab completed at Georgia Southern Univers
 **DoS Simulation End**  
 ![DoS Stop](Screenshots/DoS_Start_and_DoS_Stop.png)
 
+**Network Scanning**
+![Network Scanning](Screenshots/Network_Scanning.png)
+
+**Self Assesment**
+![Self Assesment](Screenshots/Self_Scan.png)
+
+**Password Change**
+![Password Change](Screenshots/Password_Change.png)
+
+**Non Privileged User Account Creation**
+![Less Privileged Account](Screenshots/Non_Privileged_User_Account_Creation.png)
 ---
 
 ## 📁 Repository Contents
