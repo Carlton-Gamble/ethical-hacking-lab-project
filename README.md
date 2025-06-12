@@ -45,10 +45,10 @@ This project documents a cybersecurity lab completed at Georgia Southern Univers
 ## 📸 Screenshots
 
 **DoS Simulation Start**  
-![DoS Start](screenshots/dos_start.png)
+![DoS Start](screenshots/DoS_Start_and_DoS_Stop.png)
 
 **DoS Simulation End**  
-![DoS Stop](screenshots/dos_stop.png)
+![DoS Stop](screenshots/DoS_Start_and_DoS_Stop.png)
 
 ---
 
